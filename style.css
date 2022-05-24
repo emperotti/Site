@@ -8,13 +8,35 @@ a {
   text-decoration: none;
   transition: 0.3s;
 }
+.p11{
 
+  font-family: 'Akshar', sans-serif;
+  text-align: center;
+  color:red;
+
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.footerwpp{
+  position: absoulte;
+  display: flex;
+  width: 4vh;
+  height: 4vh;
+  left: 40px;
+}
 .titulo1{
 text-align: center;
 }
 .Eu{
-  height: 12vh;
-  width: 12vh;
+  height: 5.5vh;
+  width: 5.5vh;
   display:flex;
   position: absolute;
   left: 27vh;
@@ -49,8 +71,8 @@ a:hover {
   top: 20vh;
 }
 .textao{
-color:white
-
+color:white;
+opacity: 100%;
 }
 .wpp{
   height: 12vh;
@@ -92,7 +114,7 @@ main {
   background-size: cover;
   height: 92vh;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',Arial,sans-serif;
-  opacity: 90%;
+  opacity: 80%;
 }
 .paragrafo1{
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',Arial,sans-serif;
